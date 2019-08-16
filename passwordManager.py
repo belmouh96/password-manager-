@@ -1,6 +1,9 @@
 #! /usr/bin/env python3
 #! passwordManager.py - An insecure password locker program.
 
+#This is program allows the user to type the name of an existing account 
+#And copy the password to the clipboard.
+
 PASSWORDS = {'email': 'F7minlBDDuvMJuxESSKHFhTxFtjVB6',
              'blog': 'VmALvQyKAxiVH5G8v01if1MLZF3sdt',
              'luggage': '12345'}
